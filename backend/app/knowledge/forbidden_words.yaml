@@ -1,0 +1,14 @@
+title: Forbidden Words
+
+description: >
+  Words and phrases that should be avoided in generated content.
+
+# Avoid:
+# - Clickbait language
+# - Unrealistic promises
+# - Excessive technical jargon
+# - Negative comparisons with competitors
+
+forbidden_words: []
+
+forbidden_phrases: []

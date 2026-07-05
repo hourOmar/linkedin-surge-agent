@@ -1,0 +1,53 @@
+title: Hashtag Bank
+
+description: >
+  Approved hashtags used by ENTROGX. The LinkedIn Surge Agent should select
+  relevant hashtags based on the content topic and audience while avoiding
+  excessive hashtag use.
+
+general:
+  - "#ENTROGX"
+  - "#ArtificialIntelligence"
+  - "#AI"
+  - "#Innovation"
+  - "#Technology"
+
+energy:
+  - "#Energy"
+  - "#EnergyInnovation"
+  - "#EnergyTransition"
+  - "#EnergyEfficiency"
+  - "#EnergySecurity"
+
+sustainability:
+  - "#Sustainability"
+  - "#ClimateTech"
+  - "#ESG"
+  - "#CleanEnergy"
+  - "#NetZero"
+
+entrepreneurship:
+  - "#Startups"
+  - "#Entrepreneurship"
+  - "#VentureBuilding"
+  - "#InnovationEcosystem"
+  - "#Founders"
+
+digital_transformation:
+  - "#DigitalTransformation"
+  - "#Industry40"
+  - "#IndustrialAI"
+  - "#FutureOfWork"
+
+community:
+  - "#Community"
+  - "#Collaboration"
+  - "#Leadership"
+  - "#AIEducation"
+  - "#Hackathon"
+
+guidelines:
+  preferred_count: "3-5 hashtags per post"
+  prioritize_brand_hashtag: true
+  avoid_irrelevant_trending_hashtags: true
+  avoid_hashtag_stuffing: true

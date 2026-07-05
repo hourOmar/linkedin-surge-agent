@@ -1,0 +1,64 @@
+title: Preferred Vocabulary
+
+description: >
+  Preferred terminology and phrases used by ENTROGX. The LinkedIn Surge Agent
+  should prioritize these words when generating content to maintain consistency
+  with the company's brand and communication style.
+
+preferred_terms:
+
+  company_identity:
+    - AI-native venture studio
+    - Venture building
+    - Innovation ecosystem
+    - Emerging markets
+    - Intelligence layer
+
+  artificial_intelligence:
+    - Artificial Intelligence (AI)
+    - AI-driven solutions
+    - AI-powered solutions
+    - AI innovation
+    - Industrial AI
+    - AI transformation
+
+  energy:
+    - Energy transition
+    - Energy efficiency
+    - Energy security
+    - Sustainable energy
+    - Energy innovation
+
+  sustainability:
+    - Sustainability
+    - Climate-positive growth
+    - ESG
+    - Environmental impact
+
+  innovation:
+    - Innovation
+    - Digital transformation
+    - Future of work
+    - Technology leadership
+    - Scalable solutions
+    - Real-world impact
+
+  entrepreneurship:
+    - Entrepreneurs
+    - Builders
+    - Founders
+    - Startups
+    - Venture creation
+    - Collaboration
+    - Ecosystem development
+
+preferred_phrases:
+  - Building the future with AI
+  - AI-driven innovation
+  - Creating real-world impact
+  - Empowering innovators
+  - Solving meaningful problems
+  - Accelerating the energy transition
+  - Driving sustainable innovation
+  - Building scalable AI solutions
+  - Transforming ambitious ideas into impactful solutions
